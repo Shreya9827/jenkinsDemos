@@ -1,0 +1,6 @@
+package com.sj.controller;
+
+@RestController
+public class RestController {
+
+}
